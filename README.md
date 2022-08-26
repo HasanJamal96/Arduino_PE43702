@@ -2,3 +2,4 @@
 
 Project aims to control Attanuator(PE43702) using Arduino.
 Rotatory encoder is used to change attanuation level.
+OLED is used to display attanuation level.
